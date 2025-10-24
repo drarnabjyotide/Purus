@@ -1,0 +1,5 @@
+{
+  "name": "Purus",
+  "description": "Upload medical documents to analyze your health data. Use the symptom checker for contextual insights or upload multiple documents to generate a health trend analysis. The AI creates a simple, comprehensive report you can download as a PDF.",
+  "requestFramePermissions": []
+}
